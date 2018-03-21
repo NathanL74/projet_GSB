@@ -3,10 +3,6 @@ package com.example.lestiennathan.projet_gsb.Metier.Medecin;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by lestien.nathan on 21/03/2018.
- */
-
 public class Medecins {
 
     private ArrayList<Medecin> medecins;
